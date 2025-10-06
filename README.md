@@ -162,7 +162,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/dronabopche/100-Quantum-Project.git](https://github.com/dronabopche/100-Quantam-Project.git)
+git clone https://github.com/dronabopche/100-Quantum-Project.git
 cd 100-Quantum-Project
 
 # Create virtual environment
