@@ -162,8 +162,8 @@ This repository provides a **complete hands-on learning path** for quantum compu
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quantum-computing-suite.git
-cd quantum-computing-suite
+git clone https://github.com/dronabopche/100-Quantum-Project.git
+cd 100-Quantum-Project
 
 # Create virtual environment
 python -m venv quantum_env
@@ -316,7 +316,7 @@ We welcome contributions from the quantum computing community! Here's how you ca
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the North Eastern Hill University License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Show Your Support
 
